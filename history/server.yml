@@ -1,7 +1,7 @@
 url: https://dreamserver.owouw.us
-status: up
-code: 200
-responseTime: 313
-lastUpdated: 2025-02-04T23:10:55.848Z
+status: down
+code: 502
+responseTime: 136
+lastUpdated: 2025-02-05T14:12:32.504Z
 startTime: 2025-01-25T02:17:20.163Z
 generator: Upptime <https://github.com/upptime/upptime>
