@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 195,
-    "timeDay": 297,
-    "timeWeek": 171,
-    "timeMonth": 168,
+    "timeDay": 284,
+    "timeWeek": 189,
+    "timeMonth": 174,
     "timeYear": 191,
     "dailyMinutesDown": {
       "2025-10-31": 16,
@@ -28,18 +28,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/dreamserver.owouw.us.ico",
     "slug": "server",
     "status": "down",
-    "uptime": "8.43%",
+    "uptime": "8.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 127,
-    "timeDay": 70,
-    "timeWeek": 47,
+    "timeDay": 61,
+    "timeWeek": 49,
     "timeMonth": 48,
     "timeYear": 106,
     "dailyMinutesDown": {
-      "2026-06-03": 134,
+      "2026-06-04": 132,
+      "2026-06-03": 1440,
       "2026-06-02": 1440,
       "2026-06-01": 1440,
       "2026-05-31": 1440,
@@ -402,8 +403,7 @@
       "2025-06-08": 1440,
       "2025-06-07": 1440,
       "2025-06-06": 1440,
-      "2025-06-05": 1440,
-      "2025-06-04": 1440
+      "2025-06-05": 1440
     }
   }
 ]
